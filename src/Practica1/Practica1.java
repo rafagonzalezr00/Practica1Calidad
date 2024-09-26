@@ -6,5 +6,6 @@ public class Practica1{
 		System.out.println("Version2");
 		System.out.println("Version3");
 		System.out.println("Version6");
+		System.out.println("Version7");
 	}
 }
